@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name">Photo+</string>
-    <string name="photo_plus_start_trigger">start ploto plus</string>
+    <string name="photo_plus_start_trigger">start photo plus</string>
     <string name="stop">Stop</string>
     <string name="camera">Camera</string>
 
